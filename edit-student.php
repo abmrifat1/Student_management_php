@@ -13,7 +13,7 @@ if(isset($_POST['btn'])){
 }
 
 ?>
-<a href="add-student.php">ADD</a>
+<a href="add-student.php">ADD Data</a>
 <a href="view-student.php">VIEW</a>
 <hr/>
 

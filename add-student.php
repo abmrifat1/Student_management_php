@@ -11,7 +11,7 @@ if(isset($_POST['btn'])){
 
 ?>
 
-<a href="add-student.php">ADD</a>
+<a href="add-student.php">ADD Student</a>
 <a href="view-student.php">VIEW</a>
 <hr/>
 

@@ -12,7 +12,7 @@ class Student
 
 
            if(mysqli_query($link,$sql)){
-               $message="Student Info save successfully";
+               $message="Student Information save successfully";
                return $message;
            }
            else{

@@ -20,7 +20,7 @@ if(isset($_GET['p'])){
     <tr>
 
 
-        <th>ID</th>
+        <th>ID NO</th>
         <th>Name</th>
         <th>Result</th>
         <th>Subject</th>
